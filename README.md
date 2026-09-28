@@ -1,0 +1,2 @@
+# premium-japanese-chisel-001-japanese-chisel-forge-hollow
+Stop losing track of your chisel forging steps and hollow grinding specs. The Japanese Chisel Forge &amp; Hollow Craft Workshop turns your chaotic workshop notes into a precise, repeatable system.  This Notion template solves the pain of inconsistent chisel quality by providing a structured forge session log, hollow grind angle tracker, and material in
